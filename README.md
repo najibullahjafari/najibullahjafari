@@ -10,13 +10,13 @@
 </div>
 
 <br>
-![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/najibullahjafari/github-readme-activity-graph)
+- ![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/najibullahjafari/github-readme-activity-graph)
 <br>
 I'm a passionate Software developer who loves coding and building projects.
 <br>
-![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
+- ![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
 <br>
-![](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
+- ![](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
 
 ## 🔭 My current projects:
