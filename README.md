@@ -14,9 +14,9 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
 I'm a passionate [Software developer] who loves coding and building projects.
 <br><br>
-![GitHub Org's stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
+![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
 <br><br>
-![](https://komarev.com/ghpvc/?username=your-github-najibullahjafari&color=green)
+![](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
 
 ## 🔭 My current projects:
