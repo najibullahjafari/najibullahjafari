@@ -5,7 +5,8 @@
 </div>
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/najibullahjafari/Portfolio-Mobile_version?style=plastic)
+![GitHub commit activity](https://github-readme-stats.vercel.app/api?username=najibullahjafari)(https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 I'm a passionate [Software developer] who loves coding and building projects.
 <br><br>
