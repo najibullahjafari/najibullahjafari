@@ -3,9 +3,6 @@
   <img src="najib256.jpg" alt="Najibullah Jafari" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.8), 0px 0px 20px 0px rgba(255, 255, 255, 0.6), 0px 0px 30px 0px rgba(255, 255, 255, 0.4), 0px 0px 40px 0px rgba(255, 255, 255, 0.2);">
   <h2 style="font-family: 'Bungee', cursive; font-size: 50px; color: #fff; text-align: center; text-shadow: 0px 0px 10px #fff, 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 40px #ff00de, 0px 0px 70px #ff00de, 0px 0px 80px #ff00de, 0px 0px 100px #ff00de;"></h2>
 </div>
-
-
-![GitHub commit activity](https://github-readme-stats.vercel.app/api?username=najibullahjafari)(https://github.com/anuraghazra/github-readme-stats)
 <br>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=najibullahjafari&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e">
@@ -14,7 +11,7 @@
 
 <br>
 [![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/najibullahjafari/github-readme-activity-graph)
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 I'm a passionate [Software developer] who loves coding and building projects.
 <br><br>
 ![GitHub Org's stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
