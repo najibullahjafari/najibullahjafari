@@ -20,6 +20,7 @@ I'm a passionate Software developer who loves coding and building projects.
 - ![](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
 -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## 🔭 My current projects:
 
 - [Project 1](https://github.com/najibullahjafari/Portfolio-Mobile_version)
