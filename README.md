@@ -11,11 +11,11 @@
 
 <br>
 [![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/najibullahjafari/github-readme-activity-graph)
-<br><br><br><br><br><br><br><br><br><br><br><br>
-I'm a passionate [Software developer] who loves coding and building projects.
-<br><br>
+<br>
+I'm a passionate Software developer who loves coding and building projects.
+<br>
 ![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
-<br><br>
+<br>
 ![](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
 
@@ -38,7 +38,6 @@ I'm a passionate [Software developer] who loves coding and building projects.
 ## 📫 How to reach me:
 
 - [Email](najib2020202020@gmail.com)
-<br>
 - ![Twitter Follow](https://img.shields.io/twitter/follow/Najib_Jafari_?style=social)
 - [Codeforces](https://codeforces.com/profile/kucoders)
 - [HackerRank](https://www.hackerrank.com/najib2020202020)
