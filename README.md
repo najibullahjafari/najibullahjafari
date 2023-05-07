@@ -1,17 +1,18 @@
 # Hi there, I'm [Najibullah Jafari]()
 <div style="background-image: url(najib256.jpg); background-size: cover; width: 500px; height: 250px; display: flex; justify-content: center; align-items: center; box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.8), 0px 0px 40px 0px rgba(255, 255, 255, 0.6), 0px 0px 60px 0px rgba(255, 255, 255, 0.4), 0px 0px 80px 0px rgba(255, 255, 255, 0.2);">
   <img src="najib256.jpg" alt="Najibullah Jafari" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.8), 0px 0px 20px 0px rgba(255, 255, 255, 0.6), 0px 0px 30px 0px rgba(255, 255, 255, 0.4), 0px 0px 40px 0px rgba(255, 255, 255, 0.2);">
-  <h2 style="font-family:Arial, sans-serif;; font-size: 50px; color: #fff; text-align: center; text-shadow: 0px 0px 10px #fff, 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 40px #ff00de, 0px 0px 70px #ff00de, 0px 0px 80px #ff00de, 0px 0px 100px #ff00de;">Najibullah Jafari</h2>
+  <h2 style="font-family: 'Bungee', cursive; font-size: 50px; color: #fff; text-align: center; text-shadow: 0px 0px 10px #fff, 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 40px #ff00de, 0px 0px 70px #ff00de, 0px 0px 80px #ff00de, 0px 0px 100px #ff00de;">Najibullah Jafari</h2>
 </div>
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/najibullahjafari/Portfolio-Mobile_version?style=plastic)
-<br>
-I'm a passionate [Software developer] who loves coding and building projects.
-<br>
-![GitHub Org's stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
-<br>
-![](https://komarev.com/ghpvc/?username=your-github-najibullahjafari&color=green)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/najibullahjafari/Portfolio-Mobile_version?style=plastic)
+<br><br>
+I'm a passionate [Software developer] who loves coding and building projects.
+<br><br>
+![GitHub Org's stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
+<br><br>
+![](https://komarev.com/ghpvc/?username=your-github-najibullahjafari&color=green)
+<br>
 
 ## 🔭 My current projects:
 
