@@ -10,6 +10,7 @@
 </div>
 
 <br>
+<!--  
 - ![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/najibullahjafari/github-readme-activity-graph)
 <br>
 I'm a passionate Software developer who loves coding and building projects.
@@ -18,7 +19,7 @@ I'm a passionate Software developer who loves coding and building projects.
 <br>
 - ![](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
-
+-->
 ## 🔭 My current projects:
 
 - [Project 1](https://github.com/najibullahjafari/Portfolio-Mobile_version)
