@@ -12,7 +12,9 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=najibullahjafari&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
-<br><br>
+<br>
+[![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/najibullahjafari/github-readme-activity-graph)
+<br>
 I'm a passionate [Software developer] who loves coding and building projects.
 <br><br>
 ![GitHub Org's stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
@@ -26,9 +28,9 @@ I'm a passionate [Software developer] who loves coding and building projects.
 
 ## 🌱 I'm currently learning:
 
-- [Skill 1](https://www.microverse.org/)
-- [Skill 2](https://forum.freecodecamp.org/)
-- [Skill 3](https://developer.mozilla.org/en-US/)
+- [Microverse](https://www.microverse.org/)
+- [Free code camp](https://forum.freecodecamp.org/)
+- [Mozilla Developer](https://developer.mozilla.org/en-US/)
 
 ## 💬 Ask me about:
 
