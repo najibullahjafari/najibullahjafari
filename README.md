@@ -1,6 +1,6 @@
 # Hi there, I'm [Najibullah Jafari]()
 <div style="background-image: url(najib256.jpg); background-size: cover; width: 500px; height: 250px; display: flex; justify-content: center; align-items: center; box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.8), 0px 0px 40px 0px rgba(255, 255, 255, 0.6), 0px 0px 60px 0px rgba(255, 255, 255, 0.4), 0px 0px 80px 0px rgba(255, 255, 255, 0.2);">
-  <img src="najib256.jpg" alt="Najibullah Jafari" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.8), 0px 0px 20px 0px rgba(255, 255, 255, 0.6), 0px 0px 30px 0px rgba(255, 255, 255, 0.4), 0px 0px 40px 0px rgba(255, 255, 255, 0.2);">
+  <img src="najib256//.jpg" alt="Najibullah Jafari" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.8), 0px 0px 20px 0px rgba(255, 255, 255, 0.6), 0px 0px 30px 0px rgba(255, 255, 255, 0.4), 0px 0px 40px 0px rgba(255, 255, 255, 0.2);">
   <h2 style="font-family: 'Bungee', cursive; font-size: 50px; color: #fff; text-align: center; text-shadow: 0px 0px 10px #fff, 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 40px #ff00de, 0px 0px 70px #ff00de, 0px 0px 80px #ff00de, 0px 0px 100px #ff00de;"></h2>
 </div>
 <br>
