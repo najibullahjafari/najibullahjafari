@@ -27,8 +27,9 @@ I'm a passionate Software developer who loves coding and building projects.
 ## 🌱 I'm currently learning:
 
 - [Microverse](https://www.microverse.org/)
-- [Free code camp](https://forum.freecodecamp.org/)
-- [Mozilla Developer](https://developer.mozilla.org/en-US/)
+- [Java Script](https://www.microverse.org/)
+- [HTML & CSS](https://www.microverse.org/)
+- [Bootstrap & SASS](https://www.microverse.org/)
 
 ## 💬 Ask me about:
 
@@ -39,7 +40,7 @@ I'm a passionate Software developer who loves coding and building projects.
 ## 📫 How to reach me:
 
 - [Email](najib2020202020@gmail.com)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/Najib_Jafari_?style=social)
+- [Twitter Follow](https://img.shields.io/twitter/follow/Najib_Jafari_?style=social)
 - [Codeforces](https://codeforces.com/profile/kucoders)
 - [HackerRank](https://www.hackerrank.com/najib2020202020)
 
