@@ -41,8 +41,6 @@ I'm a passionate Software developer who loves coding and building projects.
 
 - [Email](najib2020202020@gmail.com)
 - [Twitter Follow](https://img.shields.io/twitter/follow/Najib_Jafari_?style=social)
-- [Codeforces](https://codeforces.com/profile/kucoders)
-- [HackerRank](https://www.hackerrank.com/najib2020202020)
 
 ## 😄 Pronouns:
 
