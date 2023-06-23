@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer who loves coding and building projects. I enjoy problem-solving and exploring new technologies. In my free time, I enjoy playing soccer, chess, and biking. Feel free to reach out to me via email or on Twitter.
+I'm a passionate front-end Web developer who loves coding and building projects. I enjoy problem-solving and exploring new technologies. In my free time, I enjoy playing soccer, chess, and biking. Feel free to reach out to me via email or on Twitter.
 
 ## GitHub Stats
 
