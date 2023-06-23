@@ -3,23 +3,22 @@
   <h2 style="font-family: 'Bungee', cursive; font-size: 50px; color: #fff; text-align: center; text-shadow: 0px 0px 10px #fff, 0px 0px 20px #fff, 0px 0px 30px #fff, 0px 0px 40px #ff00de, 0px 0px 70px #ff00de, 0px 0px 80px #ff00de, 0px 0px 100px #ff00de;"></h2>
 </div>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=najibullahjafari&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=najibullahjafari&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D">
+<div align="center" width="100%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=najibullahjafari&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" alt="Omar Muhammad Languages" height="155"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=najibullahjafari&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D" alt="Omar Muhammad's Contributions" height="155"/>
 </div>
 
 <br>
-<!--  
-- ![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/najibullahjafari/github-readme-activity-graph)
-<br>
+ 
+![Najibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)
+  
 I'm a passionate Software developer who loves coding and building projects.
 <br>
-- ![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
+![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
 <br>
-- ![](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
+![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
--->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><
 ## 🔭 My current projects:
 
 - [Project 1](https://github.com/najibullahjafari/Portfolio-Mobile_version)
