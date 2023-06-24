@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate front-end Web developer who loves coding and building projects. I enjoy problem-solving and exploring new technologies. In my free time, I enjoy playing soccer, chess, and biking. Feel free to reach out to me via email or on Twitter.
+I'm a passionate front-end web developer who loves coding and building projects. I enjoy problem-solving and exploring new technologies. In my free time, I enjoy playing soccer, chess, and biking. Feel free to reach out to me via email or on Twitter.
 
 ## GitHub Stats
 
@@ -18,7 +18,7 @@ I'm a passionate front-end Web developer who loves coding and building projects.
 <br>
  
 ![Najibullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)
-<be>
+<br>
 
 
 <div align="center">
@@ -35,10 +35,10 @@ I'm a passionate front-end Web developer who loves coding and building projects.
 
 - [Portfolio](https://github.com/najibullahjafari/Portfolio-Mobile_version)
 - [Awesome books](https://najibullahjafari.github.io/Awesome-books/)
-- [Lagendary portfolio](https://tiny-donut-bb9f40.netlify.app/)
-- [flutter portfolio](https://github.com/najibullahjafari/flutter-portfolio)
-- [To do list](https://64933b42fe735108c7471065--gleaming-rabanadas-7c9e4b.netlify.app/)
-- [Awesome book laravel](https://github.com/najibullahjafari/Awesome_book_laravel)
+- [Legendary portfolio](https://tiny-donut-bb9f40.netlify.app/)
+- [Flutter portfolio](https://github.com/najibullahjafari/flutter-portfolio)
+- [To-do list](https://64933b42fe735108c7471065--gleaming-rabanadas-7c9e4b.netlify.app/)
+- [Awesome book Laravel](https://github.com/najibullahjafari/Awesome_book_laravel)
 
 ## 🌱 I'm Currently Learning
 
@@ -52,7 +52,7 @@ I'm a passionate front-end Web developer who loves coding and building projects.
 
 ## 💬 Ask Me About
 
-- Anything related to HTML, CSS, Python, Javascript and problem-solving
+- Anything related to HTML, CSS, Python, JavaScript, and problem-solving
 - Playing soccer, chess, and biking 
 - VS Code, PyCharm, and Git
 
