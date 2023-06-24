@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate front-end web developer who loves coding and building projects. I enjoy problem-solving and exploring new technologies. In my free time, I enjoy playing soccer, chess, and biking. Feel free to reach out to me via email or on Twitter.
+I'm a passionate Front-end web developer who loves coding and building projects. I enjoy problem-solving and exploring new technologies. I enjoy playing chess, problem-solving, and biking in my free time. Feel free to reach out to me via email or on LinkedIn.
 
 ## GitHub Stats
 
@@ -44,10 +44,10 @@ I'm a passionate front-end web developer who loves coding and building projects.
 
 - [Microverse](https://www.microverse.org/)
 - JavaScript
-- HTML & CSS
+- HTML and CSS
 - Bootstrap
 - Pair programming
-- Remote collaboration 
+- Remote Collaboration 
 
 
 ## 💬 Ask Me About
