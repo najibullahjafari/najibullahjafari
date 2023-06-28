@@ -44,10 +44,11 @@ I'm a passionate Front-end web developer who loves coding and building projects.
 
 - [Microverse](https://www.microverse.org/)
 - JavaScript
-- HTML and CSS
-- Bootstrap
+- API
 - Pair programming
-- Remote Collaboration 
+- Remote Collaboration
+- Git
+- Front-end
 
 
 ## 💬 Ask Me About
