@@ -49,6 +49,7 @@ I'm a passionate Front-end web developer who loves coding and building projects.
 - Remote Collaboration
 - Git
 - Front-end
+- webpack
 
 
 ## 💬 Ask Me About
