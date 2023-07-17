@@ -50,6 +50,7 @@ I'm a passionate Front-end web developer who loves coding and building projects.
 - Git
 - Front-end
 - webpack
+- Testing
 
 
 ## 💬 Ask Me About
