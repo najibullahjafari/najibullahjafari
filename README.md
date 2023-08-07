@@ -71,4 +71,4 @@ I'm a passionate Front-end web developer who loves coding and building projects.
 
 ## ⚡ Fun Fact
 
-- I enjoy problem-solving
+- I enjoy Problem-Solving
