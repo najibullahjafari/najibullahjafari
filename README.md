@@ -43,13 +43,11 @@ I'm a passionate Front-end web developer who loves coding and building projects.
 ## 🌱 I'm Currently Learning
 
 - [Microverse](https://www.microverse.org/)
+- Full-Stack Web Development 
+- React & Redux
 - JavaScript
 - API
-- Pair programming
-- Remote Collaboration
 - Git
-- Front-end
-- webpack
 - Testing
 
 
