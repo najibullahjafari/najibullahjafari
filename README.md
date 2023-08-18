@@ -33,6 +33,7 @@ I'm a passionate Front-end web developer who loves coding and building projects.
   
 ## 🔭 My Current Projects
 
+- [My Crypto](https://64ddfa6f503d267147502fb8--tiny-sfogliatella-1f3791.netlify.app/)
 - [Portfolio](https://github.com/najibullahjafari/Portfolio-Mobile_version)
 - [Awesome books](https://najibullahjafari.github.io/Awesome-books/)
 - [Legendary portfolio](https://tiny-donut-bb9f40.netlify.app/)
