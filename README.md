@@ -54,7 +54,7 @@ I'm a passionate Front-end web developer who loves coding and building projects.
 
 ## 💬 Ask Me About
 
-- Anything related to HTML, CSS, Python, JavaScript, and problem-solving
+- Anything related to React and Redux, HTML, CSS, Python, JavaScript, and problem-solving
 - Playing soccer, chess, and biking 
 - VS Code, PyCharm, and Git
 
