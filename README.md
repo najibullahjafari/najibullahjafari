@@ -1,8 +1,7 @@
 # Hi there, I'm [Najibullah Jafari]()
 
 ## About Me
-
-I'm a passionate Front-end web developer who loves coding and building projects. I enjoy problem-solving and exploring new technologies. I enjoy playing chess, problem-solving, and biking in my free time. Feel free to reach out to me via email or on LinkedIn.
+A front-end web developer with a love for coding and crafting digital experiences. I thrive on the challenges that web development offers. When I'm not immersed in code, you'll find me at the chessboard strategizing my next move, solving intriguing problems, or exploring new technologies. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between! 🚴‍♂️♟️👨‍💻
 
 ## GitHub Stats
 
