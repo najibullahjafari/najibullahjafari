@@ -42,13 +42,7 @@ A front-end web developer with a love for coding and crafting digital experience
 
 ## 🌱 I'm Currently Learning
 
-- [Microverse](https://www.microverse.org/)
-- Full-Stack Web Development 
-- React & Redux
-- JavaScript
-- API
-- Git
-- Testing
+- Full-Stack Web Development at [Microverse](https://www.microverse.org/)
 
 
 ## 💬 Ask Me About
