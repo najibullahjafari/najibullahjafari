@@ -49,7 +49,7 @@ A front-end web developer with a love for coding and crafting digital experience
 
 - Anything related to React and Redux, HTML, CSS, Python, JavaScript, and problem-solving
 - Playing soccer, chess, and biking 
-- VS Code, PyCharm, and Git
+- VS Code, PyCharm, Git and GitHub
 
 ## 📫 How to Reach Me
 
