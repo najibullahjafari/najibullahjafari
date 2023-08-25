@@ -48,7 +48,7 @@ A front-end web developer with a love for coding and crafting digital experience
 ## 💬 Ask Me About
 
 - Anything related to React and Redux, HTML, CSS, Python, JavaScript, and problem-solving
-- Playing soccer, chess, Magic Rubik's and biking 
+- Playing soccer, chess, Magic Rubik's cube and biking 
 - VS Code, PyCharm, Git and GitHub
 
 ## 📫 How to Reach Me
