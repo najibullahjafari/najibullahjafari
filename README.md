@@ -61,6 +61,3 @@ A front-end web developer with a love for coding and crafting digital experience
 
 - He/Him
 
-## ⚡ Fun Fact
-
-- I enjoy Problem-Solving
