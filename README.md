@@ -57,7 +57,4 @@ A front-end web developer with a love for coding and crafting digital experience
 - [Twitter](https://twitter.com/Najib_Jafari_)
 - [LinkedIn](https://www.linkedin.com/in/najibulla-jafari-609852263/)
 
-## 😄 Pronouns
-
-- He/Him
 
