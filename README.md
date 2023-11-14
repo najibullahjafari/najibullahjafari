@@ -36,7 +36,6 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 - [My Crypto](https://64ddfa6f503d267147502fb8--tiny-sfogliatella-1f3791.netlify.app/)
 - [Awesome books](https://najibullahjafari.github.io/Awesome-books/)
 - [Legendary portfolio](https://tiny-donut-bb9f40.netlify.app/)
-- [Flutter portfolio](https://github.com/najibullahjafari/flutter-portfolio)
 - [To-do list](https://64933b42fe735108c7471065--gleaming-rabanadas-7c9e4b.netlify.app/)
 - [Awesome book Laravel](https://github.com/najibullahjafari/Awesome_book_laravel)
 
