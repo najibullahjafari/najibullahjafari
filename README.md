@@ -24,7 +24,6 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
   
 </div>
 
-
 ![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
 
 ![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
