@@ -39,8 +39,6 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 - [Awesome book Laravel](https://github.com/najibullahjafari/Awesome_book_laravel)
 
 ## 🌱 I'm Currently Learning
-
-- Full-Stack Web Development at [Microverse](https://www.microverse.org/)
 - Infromation System at Kabul University 
 
 
