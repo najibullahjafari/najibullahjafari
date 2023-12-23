@@ -44,7 +44,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ## 💬 Ask Me About
 
-- Anything related to React and Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, problem-solving, Machine learning
+- Anything related to React and Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, Problem-solving, Machine learning
 - Playing soccer, chess, Magic Rubik's cube, and Software development.
 - VS Code, PyCharm, Git and GitHub
 
