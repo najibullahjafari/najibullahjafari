@@ -1,4 +1,4 @@
-# Hi there, I'm [Najibullah Jafari]()
+f# Hi there, I'm [Najibullah Jafari]()
 
 ## About Me
 A Full-Stack web developer with a love for coding and crafting digital experiences. I thrive on the challenges that web development offers. When I'm not immersed in code, you'll find me at the chessboard strategizing my next move, solving intriguing problems, or exploring new technologies. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between! 🚴‍♂️♟️👨‍💻 🎈
@@ -40,7 +40,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ## 🌱 I'm Currently Learning
 - Infromation System at Kabul University 
-- Microverse 
+- Full-stack Web Develkopment at Microverse 
 
 ## 💬 Ask Me About
 
