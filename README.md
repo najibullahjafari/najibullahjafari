@@ -40,7 +40,6 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ## 🌱 I'm Currently Learning
 - Infromation System at Kabul University 
-- Full-stack Web Develkopment at Microverse 
 
 ## 💬 Ask Me About
 
