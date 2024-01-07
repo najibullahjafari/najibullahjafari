@@ -39,7 +39,8 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 - [Awesome book Laravel](https://github.com/najibullahjafari/Awesome_book_laravel)
 
 ## 🌱 I'm Currently Learning
-- Infromation System at Kabul University 
+- Infromation System at Kabul University
+- Microverse
 
 ## 💬 Ask Me About
 
