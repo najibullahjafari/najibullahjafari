@@ -40,7 +40,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ## 🌱 I'm Currently Learning
 - Infromation System at Kabul University
-- Full-stack web development at Microverse(A leading remote software development school)
+- Full-stack web development at Microverse(A leading remote software development school).
 
 ## 💬 Ask Me About
 
