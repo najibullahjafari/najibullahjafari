@@ -28,19 +28,9 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
-  
-## 🔭 My Current Projects
-
-- [BudgetPro](https://github.com/najibullahjafari/BudgetPro)
-- [My Crypto](https://64ddfa6f503d267147502fb8--tiny-sfogliatella-1f3791.netlify.app/)
-- [Awesome books](https://najibullahjafari.github.io/Awesome-books/)
-- [Legendary portfolio](https://tiny-donut-bb9f40.netlify.app/)
-- [To-do list](https://64933b42fe735108c7471065--gleaming-rabanadas-7c9e4b.netlify.app/)
-- [Awesome book Laravel](https://github.com/najibullahjafari/Awesome_book_laravel)
-
 ## 🌱 I'm Currently Learning
 - Infromation System at Kabul University
-- Full-stack web development at Microverse(A leading remote software development school).
+- Laravel & Vue
 
 ## 💬 Ask Me About
 
