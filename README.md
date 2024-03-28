@@ -30,7 +30,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 <br>
 ## 🌱 I'm Currently Learning
 - Infromation System at Kabul University
-- Laravel & Vue
+- Laravel & Vue.
 
 ## 💬 Ask Me About
 
