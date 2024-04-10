@@ -36,10 +36,5 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 - Anything related to React and Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, Problem-solving, Machine learning
 - Playing soccer, chess, Magic Rubik's cube
 - VS Code, PyCharm, Git & GitHub.
-## 📫 How to Reach Me
-
-- [Email](najib2020202020@gmail.com)
-- [Twitter](https://twitter.com/Najib_Jafari_)
-- [LinkedIn](https://www.linkedin.com/in/najibulla-jafari-609852263/)
 
 
