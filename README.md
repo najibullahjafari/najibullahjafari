@@ -28,8 +28,9 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
-## 🌱 I'm Currently Learning
-- Infromation System at Kabul University.
+## 🌱 I'm Currently working on:
+- Projects using Laravel, VUE js,
+- Tourism Portal using Reacct, Anertia js and Laravel
 
 ## 💬 Ask Me About
 
