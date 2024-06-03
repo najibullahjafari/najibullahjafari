@@ -30,7 +30,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 <br>
 ## 🌱 I'm Currently working on:
 - Projects using Laravel, VUE js,
-- Tourism Portal using React, Anertia js and Laravel.
+- Tourism Portal using React, Anertia js and Laravel
 
 ## 💬 Ask Me About
 
