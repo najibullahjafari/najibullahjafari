@@ -1,7 +1,7 @@
 # Hi there, I'm [Najibullah Jafari]()
 
 ## About Me
-A Full-Stack web developer with a love for coding and crafting digital experiences. When I'm not immersed in code, you'll find me at the chessboard strategizing my next move, solving intriguing problems, or exploring new technologies. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
+A Certified Full-Stack web developer with a great experience in Laravel & Livewire,Ruby on Rails, Vue Js, React Js and Python. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
 
 ## GitHub Stats
 
@@ -29,8 +29,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 ![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
 ## 🌱 I'm Currently working on:
-- Projects using Laravel, VUE js,
-- Tourism Portal using React, Anertia js and Laravel.
+- Projects using Laravel, Livewire, Django, Git & GitHub, Cpanel, Vscode, Google meet, Discord, React Js, Microsoft OneNote, 
 - Problem solving
 
 ## 💬 Ask Me About
