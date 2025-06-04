@@ -45,9 +45,12 @@ jobs:
           rm README.tmp
 
       - name: Commit and push changes
+        env:
+          TOKEN: ${{ secrets.PAT }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m "Update README with today’s advice [skip ci]" || exit 0
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git push
