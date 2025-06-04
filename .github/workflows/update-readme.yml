@@ -2,7 +2,7 @@ name: Daily Advice in README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+    - cron: '0 11 * * *'  # Runs every day at 3:30 PM Kabul (UTC+4:30)
   workflow_dispatch:
 
 jobs:
