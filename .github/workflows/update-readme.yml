@@ -2,7 +2,7 @@ name: Daily Advice in README
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # Runs every day at 3:30 PM Kabul (UTC+4:30)
+    - cron: '0 11 * * *'  # 3:30 PM Kabul time (UTC+4:30)
   workflow_dispatch:
 
 jobs:
@@ -33,12 +33,15 @@ jobs:
           day_num=$(( ($(date -u +%s) / 86400) % advice_count + 1 ))
           advice=$(sed -n "${day_num}p" advices.txt)
 
-          # Remove previous advice section from README
+          # Remove any previous advice line
           grep -v '^> 💡' README.md > README.tmp || true
 
-          # Add today’s advice at the top of README
-          echo "> 💡 Today's Advice: $advice" > README.md
-          cat README.tmp >> README.md
+          # Insert advice after your name
+          awk -v advice="> 💡 Today's Advice: $advice" '
+            BEGIN {added=0}
+            {print}
+            /Najibullah Jafari/ && !added {print advice; added=1}
+          ' README.tmp > README.md
           rm README.tmp
 
       - name: Commit and push changes
