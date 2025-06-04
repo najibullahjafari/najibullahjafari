@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ADMIN",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/SmwzraeaWhI0qVoBd0c9RT6SsoghmSImrvMYGuHRV4F7r5GQIk/",
+  "gitHubUrl": "https://github.com/najibullahjafari/najibullahjafari",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}

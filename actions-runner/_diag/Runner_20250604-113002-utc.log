@@ -1,0 +1,260 @@
+[2025-06-04 11:30:02Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'Credentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'Runner': 'D:\code\projects\najibullahjafari\actions-runner\.runner'
+[2025-06-04 11:30:02Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-06-04 11:30:02Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19044.
+[2025-06-04 11:30:02Z INFO Listener] Version: 2.324.0
+[2025-06-04 11:30:02Z INFO Listener] Commit: da3412efd49b1cf1a0fbdcbcee4e4ac4cc2177c8
+[2025-06-04 11:30:02Z INFO Listener] Culture: en-US
+[2025-06-04 11:30:02Z INFO Listener] UI Culture: en-US
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO Listener] Validating directory permissions for: 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO CommandLineParser] Parse
+[2025-06-04 11:30:02Z INFO CommandLineParser] Parsing 1 args
+[2025-06-04 11:30:02Z INFO CommandLineParser] parsing argument
+[2025-06-04 11:30:02Z INFO CommandLineParser] HasArgs: False
+[2025-06-04 11:30:02Z INFO CommandLineParser] Adding Command: run
+[2025-06-04 11:30:02Z INFO Listener] Arguments parsed
+[2025-06-04 11:30:02Z INFO Runner] ExecuteCommand
+[2025-06-04 11:30:02Z INFO ConfigurationStore] currentAssemblyLocation: D:\code\projects\najibullahjafari\actions-runner\bin\Runner.Listener.dll
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] binPath: D:\code\projects\najibullahjafari\actions-runner\bin
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] RootFolder: D:\code\projects\najibullahjafari\actions-runner
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'Runner': 'D:\code\projects\najibullahjafari\actions-runner\.runner'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] ConfigFilePath: D:\code\projects\najibullahjafari\actions-runner\.runner
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'MigratedRunner': 'D:\code\projects\najibullahjafari\actions-runner\.runner_migrated'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] MigratedConfigFilePath: D:\code\projects\najibullahjafari\actions-runner\.runner_migrated
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'Credentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] CredFilePath: D:\code\projects\najibullahjafari\actions-runner\.credentials
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials_migrated'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] MigratedCredFilePath: D:\code\projects\najibullahjafari\actions-runner\.credentials_migrated
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'Service': 'D:\code\projects\najibullahjafari\actions-runner\.service'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] ServiceConfigFilePath: D:\code\projects\najibullahjafari\actions-runner\.service
+[2025-06-04 11:30:02Z INFO CommandSettings] Flag 'help': 'False'
+[2025-06-04 11:30:02Z INFO CommandSettings] Flag 'version': 'False'
+[2025-06-04 11:30:02Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-06-04 11:30:02Z INFO CommandSettings] Flag 'check': 'False'
+[2025-06-04 11:30:02Z INFO CommandSettings] Command 'configure': 'False'
+[2025-06-04 11:30:02Z INFO CommandSettings] Command 'remove': 'False'
+[2025-06-04 11:30:02Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-06-04 11:30:02Z INFO ConfigurationManager] LoadSettings
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsConfigured()
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsConfigured: True
+[2025-06-04 11:30:02Z INFO ConfigurationManager] Is configured: True
+[2025-06-04 11:30:02Z INFO ConfigurationStore] Read setting file: 402 chars
+[2025-06-04 11:30:02Z INFO ConfigurationManager] Settings Loaded
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsServiceConfigured: True
+[2025-06-04 11:30:02Z INFO CommandSettings] Command 'run': 'True'
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsConfigured()
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsConfigured: True
+[2025-06-04 11:30:02Z INFO ConfigurationManager] Is configured: True
+[2025-06-04 11:30:02Z INFO Runner] Try determine runner startup type base on console redirects.
+[2025-06-04 11:30:02Z INFO Runner] Set runner startup type - Manual
+[2025-06-04 11:30:02Z INFO CommandSettings] Flag 'once': 'False'
+[2025-06-04 11:30:02Z INFO CommandSettings] Flag 'once': 'False'
+[2025-06-04 11:30:02Z INFO Runner] RunAsync
+[2025-06-04 11:30:02Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-06-04 11:30:02Z INFO ConfigurationStore] IsMigratedConfigured: False
+[2025-06-04 11:30:02Z INFO Runner] Failed to load migrated settings: No migrated configuration found.
+[2025-06-04 11:30:02Z INFO Runner] Falling back to original .runner settings
+[2025-06-04 11:30:02Z INFO Runner] Using BrokerMessageListener
+[2025-06-04 11:30:02Z INFO BrokerMessageListener] Using provided settings
+[2025-06-04 11:30:02Z INFO BrokerMessageListener] {
+  "AgentId": 2,
+  "AgentName": "ADMIN",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/SmwzraeaWhI0qVoBd0c9RT6SsoghmSImrvMYGuHRV4F7r5GQIk/",
+  "GitHubUrl": "https://github.com/najibullahjafari/najibullahjafari",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-06-04 11:30:02Z INFO BrokerMessageListener] Loading Credentials
+[2025-06-04 11:30:02Z INFO ConfigurationStore] HasCredentials()
+[2025-06-04 11:30:02Z INFO ConfigurationStore] stored True
+[2025-06-04 11:30:02Z INFO CredentialManager] GetCredentialProvider
+[2025-06-04 11:30:02Z INFO CredentialManager] Creating type OAuth
+[2025-06-04 11:30:02Z INFO CredentialManager] Creating credential type: OAuth
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:30:02Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:30:02Z INFO HostContext] Well known config file 'RSACredentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams'
+[2025-06-04 11:30:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:30:02Z INFO BrokerMessageListener] Attempt to create session.
+[2025-06-04 11:30:02Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-06-04 11:30:02Z INFO ConfigurationStore] HasCredentials()
+[2025-06-04 11:30:02Z INFO ConfigurationStore] stored True
+[2025-06-04 11:30:02Z INFO CredentialManager] GetCredentialProvider
+[2025-06-04 11:30:02Z INFO CredentialManager] Creating type OAuth
+[2025-06-04 11:30:02Z INFO CredentialManager] Creating credential type: OAuth
+[2025-06-04 11:30:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:30:02Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:30:02Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-06-04 11:30:02Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:30:02Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-06-04 11:30:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:30:02Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:30:02Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:30:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:30:02Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:30:02Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:30:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:30:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:30:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:30:06Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:30:06Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:30:06Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:30:06Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:30:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:30:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:30:07Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-06-04 11:30:09Z ERR  GitHubActionsService] POST request to https://broker.actions.githubusercontent.com/session failed. HTTP Status: Conflict
+[2025-06-04 11:30:09Z ERR  BrokerMessageListener] Catch exception during create session.
+[2025-06-04 11:30:09Z ERR  BrokerMessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: Error: Conflict
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.BrokerMessageListener.CreateSessionAsync(CancellationToken token)
+[2025-06-04 11:30:09Z INFO BrokerMessageListener] The session for this runner already exists.
+[2025-06-04 11:30:09Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-06-04 11:30:09Z INFO BrokerMessageListener] The session conflict exception haven't reached retry limit.
+[2025-06-04 11:30:09Z ERR  Terminal] WRITE ERROR: 2025-06-04 11:30:09Z: Runner connect error: Error: Conflict. Retrying until reconnected.
+[2025-06-04 11:30:09Z INFO BrokerMessageListener] Sleeping for 30 seconds before retrying.
+[2025-06-04 11:30:39Z INFO BrokerMessageListener] Attempt to create session.
+[2025-06-04 11:30:39Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-06-04 11:30:39Z INFO ConfigurationStore] HasCredentials()
+[2025-06-04 11:30:39Z INFO ConfigurationStore] stored True
+[2025-06-04 11:30:39Z INFO CredentialManager] GetCredentialProvider
+[2025-06-04 11:30:39Z INFO CredentialManager] Creating type OAuth
+[2025-06-04 11:30:39Z INFO CredentialManager] Creating credential type: OAuth
+[2025-06-04 11:30:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:30:39Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:30:39Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-06-04 11:30:39Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:30:39Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-06-04 11:30:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:30:39Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:30:39Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:30:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:30:39Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:30:39Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:30:39Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:30:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:30:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:30:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:30:40Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:30:40Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:30:40Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:30:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:30:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:30:42Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-06-04 11:30:44Z ERR  GitHubActionsService] POST request to https://broker.actions.githubusercontent.com/session failed. HTTP Status: Conflict
+[2025-06-04 11:30:44Z ERR  BrokerMessageListener] Catch exception during create session.
+[2025-06-04 11:30:44Z ERR  BrokerMessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: Error: Conflict
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.BrokerMessageListener.CreateSessionAsync(CancellationToken token)
+[2025-06-04 11:30:44Z INFO BrokerMessageListener] The session for this runner already exists.
+[2025-06-04 11:30:44Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-06-04 11:30:44Z INFO BrokerMessageListener] The session conflict exception haven't reached retry limit.
+[2025-06-04 11:30:44Z INFO BrokerMessageListener] Sleeping for 30 seconds before retrying.
+[2025-06-04 11:31:14Z INFO BrokerMessageListener] Attempt to create session.
+[2025-06-04 11:31:14Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-06-04 11:31:14Z INFO ConfigurationStore] HasCredentials()
+[2025-06-04 11:31:14Z INFO ConfigurationStore] stored True
+[2025-06-04 11:31:14Z INFO CredentialManager] GetCredentialProvider
+[2025-06-04 11:31:14Z INFO CredentialManager] Creating type OAuth
+[2025-06-04 11:31:14Z INFO CredentialManager] Creating credential type: OAuth
+[2025-06-04 11:31:14Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:31:14Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:31:14Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-06-04 11:31:14Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:31:14Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-06-04 11:31:14Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:31:14Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:31:14Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:31:14Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:31:14Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:31:14Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:31:14Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:31:15Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:31:15Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:31:15Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:31:15Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:31:15Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:31:15Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:31:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:31:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:31:15Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-06-04 11:31:16Z ERR  GitHubActionsService] POST request to https://broker.actions.githubusercontent.com/session failed. HTTP Status: Conflict
+[2025-06-04 11:31:16Z ERR  BrokerMessageListener] Catch exception during create session.
+[2025-06-04 11:31:16Z ERR  BrokerMessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: Error: Conflict
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.BrokerMessageListener.CreateSessionAsync(CancellationToken token)
+[2025-06-04 11:31:16Z INFO BrokerMessageListener] The session for this runner already exists.
+[2025-06-04 11:31:16Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-06-04 11:31:16Z INFO BrokerMessageListener] The session conflict exception haven't reached retry limit.
+[2025-06-04 11:31:16Z INFO BrokerMessageListener] Sleeping for 30 seconds before retrying.
+[2025-06-04 11:31:46Z INFO BrokerMessageListener] Attempt to create session.
+[2025-06-04 11:31:46Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-06-04 11:31:46Z INFO ConfigurationStore] HasCredentials()
+[2025-06-04 11:31:46Z INFO ConfigurationStore] stored True
+[2025-06-04 11:31:46Z INFO CredentialManager] GetCredentialProvider
+[2025-06-04 11:31:46Z INFO CredentialManager] Creating type OAuth
+[2025-06-04 11:31:46Z INFO CredentialManager] Creating credential type: OAuth
+[2025-06-04 11:31:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:31:46Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:31:46Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-06-04 11:31:46Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:31:46Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-06-04 11:31:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:31:46Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:31:46Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:31:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:31:46Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:31:46Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:31:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:31:47Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:31:47Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:31:47Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:31:47Z INFO BrokerMessageListener] VssConnection created
+[2025-06-04 11:31:47Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:31:47Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:31:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:31:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:31:48Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-06-04 11:31:49Z ERR  GitHubActionsService] POST request to https://broker.actions.githubusercontent.com/session failed. HTTP Status: Conflict
+[2025-06-04 11:31:49Z ERR  BrokerMessageListener] Catch exception during create session.
+[2025-06-04 11:31:49Z ERR  BrokerMessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: Error: Conflict
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.CreateSessionAsync(TaskAgentSession session, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.BrokerMessageListener.CreateSessionAsync(CancellationToken token)
+[2025-06-04 11:31:49Z INFO BrokerMessageListener] The session for this runner already exists.
+[2025-06-04 11:31:49Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-06-04 11:31:49Z INFO BrokerMessageListener] The session conflict exception haven't reached retry limit.
+[2025-06-04 11:31:49Z INFO BrokerMessageListener] Sleeping for 30 seconds before retrying.
+[2025-06-04 11:32:09Z INFO Terminal] WRITE LINE: Exiting...
+[2025-06-04 11:32:09Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-06-04 11:32:09Z INFO ConfigurationStore] IsServiceConfigured: True
+[2025-06-04 11:32:09Z INFO Runner] Received Ctrl-C signal, stop Runner.Listener and Runner.Worker.
+[2025-06-04 11:32:09Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2025-06-04 11:32:09Z INFO Listener] Runner execution been cancelled.

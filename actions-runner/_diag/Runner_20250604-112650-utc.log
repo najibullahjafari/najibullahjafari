@@ -1,0 +1,123 @@
+[2025-06-04 11:26:50Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO HostContext] Well known config file 'Credentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO HostContext] Well known config file 'Runner': 'D:\code\projects\najibullahjafari\actions-runner\.runner'
+[2025-06-04 11:26:50Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-06-04 11:26:50Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19044.
+[2025-06-04 11:26:50Z INFO Listener] Version: 2.324.0
+[2025-06-04 11:26:50Z INFO Listener] Commit: da3412efd49b1cf1a0fbdcbcee4e4ac4cc2177c8
+[2025-06-04 11:26:50Z INFO Listener] Culture: en-US
+[2025-06-04 11:26:50Z INFO Listener] UI Culture: en-US
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO Listener] Validating directory permissions for: 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO CommandLineParser] Parse
+[2025-06-04 11:26:50Z INFO CommandLineParser] Parsing 5 args
+[2025-06-04 11:26:50Z INFO CommandLineParser] parsing argument
+[2025-06-04 11:26:50Z INFO CommandLineParser] HasArgs: False
+[2025-06-04 11:26:50Z INFO CommandLineParser] Adding Command: configure
+[2025-06-04 11:26:50Z INFO CommandLineParser] parsing argument
+[2025-06-04 11:26:50Z INFO CommandLineParser] HasArgs: True
+[2025-06-04 11:26:50Z INFO CommandLineParser] arg: url
+[2025-06-04 11:26:50Z INFO CommandLineParser] parsing argument
+[2025-06-04 11:26:50Z INFO CommandLineParser] HasArgs: True
+[2025-06-04 11:26:50Z INFO CommandLineParser] Adding option 'url': 'https://github.com/najibullahjafari/najibullahjafari'
+[2025-06-04 11:26:50Z INFO CommandLineParser] parsing argument
+[2025-06-04 11:26:50Z INFO CommandLineParser] HasArgs: True
+[2025-06-04 11:26:50Z INFO CommandLineParser] arg: token
+[2025-06-04 11:26:50Z INFO CommandLineParser] parsing argument
+[2025-06-04 11:26:50Z INFO CommandLineParser] HasArgs: True
+[2025-06-04 11:26:50Z INFO CommandLineParser] Adding option 'token': '***'
+[2025-06-04 11:26:50Z INFO Listener] Arguments parsed
+[2025-06-04 11:26:50Z INFO Runner] ExecuteCommand
+[2025-06-04 11:26:50Z INFO ConfigurationStore] currentAssemblyLocation: D:\code\projects\najibullahjafari\actions-runner\bin\Runner.Listener.dll
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] binPath: D:\code\projects\najibullahjafari\actions-runner\bin
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] RootFolder: D:\code\projects\najibullahjafari\actions-runner
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO HostContext] Well known config file 'Runner': 'D:\code\projects\najibullahjafari\actions-runner\.runner'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] ConfigFilePath: D:\code\projects\najibullahjafari\actions-runner\.runner
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO HostContext] Well known config file 'MigratedRunner': 'D:\code\projects\najibullahjafari\actions-runner\.runner_migrated'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] MigratedConfigFilePath: D:\code\projects\najibullahjafari\actions-runner\.runner_migrated
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO HostContext] Well known config file 'Credentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] CredFilePath: D:\code\projects\najibullahjafari\actions-runner\.credentials
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials_migrated'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] MigratedCredFilePath: D:\code\projects\najibullahjafari\actions-runner\.credentials_migrated
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:50Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:50Z INFO HostContext] Well known config file 'Service': 'D:\code\projects\najibullahjafari\actions-runner\.service'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] ServiceConfigFilePath: D:\code\projects\najibullahjafari\actions-runner\.service
+[2025-06-04 11:26:50Z INFO CommandSettings] Flag 'help': 'False'
+[2025-06-04 11:26:50Z INFO CommandSettings] Flag 'version': 'False'
+[2025-06-04 11:26:50Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-06-04 11:26:50Z INFO CommandSettings] Flag 'check': 'False'
+[2025-06-04 11:26:50Z INFO CommandSettings] Command 'configure': 'True'
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: |                                                                              |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE: |                       
+[2025-06-04 11:26:50Z INFO Terminal] WRITE: Self-hosted runner registration
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE:                         |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: |                                                                              |
+[2025-06-04 11:26:50Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2025-06-04 11:26:50Z INFO ConfigurationManager] ConfigureAsync
+[2025-06-04 11:26:50Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2025-06-04 11:26:50Z INFO ConfigurationStore] IsConfigured()
+[2025-06-04 11:26:50Z INFO ConfigurationStore] IsConfigured: False
+[2025-06-04 11:26:50Z INFO ConfigurationManager] Is configured: False
+[2025-06-04 11:26:50Z INFO CommandSettings] Arg 'url': 'https://github.com/najibullahjafari/najibullahjafari'
+[2025-06-04 11:26:50Z INFO CommandSettings] Remove url from Arg dictionary.
+[2025-06-04 11:26:50Z INFO CommandSettings] Arg 'token': '***'
+[2025-06-04 11:26:50Z INFO CommandSettings] Remove token from Arg dictionary.
+[2025-06-04 11:26:53Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration' (2EE9:3FAB4C:3FA57:4A143:68402CC7)
+[2025-06-04 11:26:53Z INFO ConfigurationManager] Using V2 flow: False
+[2025-06-04 11:26:53Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2025-06-04 11:26:53Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:26:53Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-06-04 11:26:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:26:53Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:26:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:26:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:26:53Z INFO RunnerServer] EstablishVssConnection
+[2025-06-04 11:26:53Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-06-04 11:26:53Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-06-04 11:26:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:26:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:26:55Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-06-04 11:26:55Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:26:55Z INFO ConfigurationManager] Test Connection complete.
+[2025-06-04 11:26:55Z INFO HostContext] Well known directory 'Bin': 'D:\code\projects\najibullahjafari\actions-runner\bin'
+[2025-06-04 11:26:55Z INFO HostContext] Well known directory 'Root': 'D:\code\projects\najibullahjafari\actions-runner'
+[2025-06-04 11:26:55Z INFO HostContext] Well known config file 'RSACredentials': 'D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams'
+[2025-06-04 11:26:55Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2025-06-04 11:26:55Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file D:\code\projects\najibullahjafari\actions-runner\.credentials_rsaparams
+[2025-06-04 11:26:55Z INFO CommandSettings] Arg 'runnergroup': ''
+[2025-06-04 11:26:55Z INFO CommandSettings] Flag 'unattended': 'False'
+[2025-06-04 11:26:55Z INFO PromptManager] ReadValue
+[2025-06-04 11:26:55Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2025-06-04 11:26:55Z INFO Terminal] WRITE: [press Enter for Default] 
+[2025-06-04 11:26:55Z INFO Terminal] READ LINE
+[2025-06-04 11:27:07Z INFO Terminal] Read value: 'Najibullah Jafari'
+[2025-06-04 11:27:07Z INFO Terminal] WRITE LINE: 
+[2025-06-04 11:27:07Z ERR  Runner] GitHub.DistributedTask.WebApi.TaskAgentPoolNotFoundException: Could not find any self-hosted runner group named "Najibullah Jafari".
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2025-06-04 11:27:07Z ERR  Terminal] WRITE ERROR: Could not find any self-hosted runner group named "Najibullah Jafari".
+[2025-06-04 11:27:07Z INFO Listener] Runner execution has finished with return code 1
