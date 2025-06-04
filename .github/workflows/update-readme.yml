@@ -1,0 +1,50 @@
+name: Daily Advice in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update README with daily advice
+        run: |
+          # Create advices.txt if it doesn't exist (add your own advice lines here)
+          if [ ! -f advices.txt ]; then
+            echo "Stay positive!" > advices.txt
+            echo "Keep learning every day." >> advices.txt
+            echo "Be kind to others." >> advices.txt
+            echo "Take breaks and rest." >> advices.txt
+          fi
+
+          # Calculate which advice to use today
+          advice_count=$(wc -l < advices.txt)
+          day_num=$(( ($(date -u +%s) / 86400) % advice_count + 1 ))
+          advice=$(sed -n "${day_num}p" advices.txt)
+
+          # Remove previous advice section from README
+          grep -v '^> 💡' README.md > README.tmp || true
+
+          # Add today’s advice at the top of README
+          echo "> 💡 Today's Advice: $advice" > README.md
+          cat README.tmp >> README.md
+          rm README.tmp
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update README with today’s advice [skip ci]" || exit 0
+          git push
