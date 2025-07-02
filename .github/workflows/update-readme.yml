@@ -2,30 +2,30 @@ name: Daily Advice in README
 
 on:
   schedule:
-    - cron: '30 11 * * *'  # 11:30 UTC = 4:00 PM Kabul time (UTC+4:30)
+    - cron: '30 11 * * *'  # 11:30 UTC = 4:00 PM Kabul time
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Explicit write permissions
+      contents: write  # Essential write permission
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Get full history
-          token: ${{ secrets.GITHUB_TOKEN }}  # Auth token
+          fetch-depth: 0  # Get complete history
+          ref: master  # Explicitly checkout master branch
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Update README with daily advice
+      - name: Update README
         run: |
-          # Create/read advices.txt
+          # Ensure advices.txt exists
           if [ ! -f advices.txt ]; then
             echo "Stay positive!" > advices.txt
             echo "Keep learning every day." >> advices.txt
@@ -47,18 +47,17 @@ jobs:
           ' README.tmp > README.md
           rm README.tmp
 
-      - name: Commit and push changes
+      - name: Commit and Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Configure git
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Configure Git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Get latest changes
-          git pull --ff-only origin master
-          
-          # Commit and push
+          # Stage, commit and push
           git add README.md
           git commit -m "Update README with today's advice [skip ci]" || exit 0
-          git push origin HEAD:master
+          
+          # Force push to handle any synchronization issues
+          git push origin HEAD:master --force-with-lease
