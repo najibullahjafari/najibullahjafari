@@ -9,23 +9,24 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Essential write permission
+      contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout fresh copy
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Get complete history
-          ref: master  # Explicitly checkout master branch
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          clean: true  # This is crucial - ensures fresh state
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Update README
         run: |
-          # Ensure advices.txt exists
+          # Create advices.txt if missing
           if [ ! -f advices.txt ]; then
             echo "Stay positive!" > advices.txt
             echo "Keep learning every day." >> advices.txt
@@ -47,17 +48,17 @@ jobs:
           ' README.tmp > README.md
           rm README.tmp
 
-      - name: Commit and Push
+      - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Configure Git
+          # Configure git
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage, commit and push
+          # Add and commit
           git add README.md
           git commit -m "Update README with today's advice [skip ci]" || exit 0
           
-          # Force push to handle any synchronization issues
-          git push origin HEAD:master --force-with-lease
+          # Push changes
+          git push origin HEAD:master
