@@ -2,18 +2,21 @@ name: Daily Advice in README
 
 on:
   schedule:
-    - cron: '30 11 * * *'  # Fixed: 11:30 UTC = 4:00 PM Kabul time (UTC+4:30)
+    - cron: '30 11 * * *'  # 11:30 UTC = 4:00 PM Kabul time (UTC+4:30)
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Explicitly grant write permission
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Ensures full git history is available
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}  # Add this line
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,7 +25,6 @@ jobs:
 
       - name: Update README with daily advice
         run: |
-          # Create advices.txt if it doesn't exist
           if [ ! -f advices.txt ]; then
             echo "Stay positive!" > advices.txt
             echo "Keep learning every day." >> advices.txt
@@ -30,12 +32,10 @@ jobs:
             echo "Take breaks and rest." >> advices.txt
           fi
 
-          # Calculate which advice to use today
           advice_count=$(wc -l < advices.txt)
           day_num=$(( ($(date -u +%s) / 86400) % advice_count + 1 ))
           advice=$(sed -n "${day_num}p" advices.txt)
 
-          # Update README.md
           grep -v '^> 💡' README.md > README.tmp || true
           awk -v advice="> 💡 Today's Advice: $advice" '
             BEGIN {added=0}
@@ -46,10 +46,11 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub's auto-generated token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m "Update README with today's advice [skip ci]" || exit 0
-          git push origin HEAD:master  # Explicitly push to master branch
+          git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/${{ github.repository }}
+          git push origin HEAD:master
