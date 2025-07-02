@@ -61,4 +61,5 @@ jobs:
           git commit -m "Update README with today's advice [skip ci]" || exit 0
           
           # Push changes
+          git pull --rebase origin master
           git push origin HEAD:master
