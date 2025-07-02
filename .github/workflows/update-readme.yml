@@ -2,7 +2,7 @@ name: Daily Advice in README
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # 3:30 PM Kabul time (UTC+4:30)
+    - cron: '30 11 * * *'  # Fixed: 11:30 UTC = 4:00 PM Kabul time (UTC+4:30)
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Ensures full git history is available
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -20,7 +22,7 @@ jobs:
 
       - name: Update README with daily advice
         run: |
-          # Create advices.txt if it doesn't exist (add your own advice lines here)
+          # Create advices.txt if it doesn't exist
           if [ ! -f advices.txt ]; then
             echo "Stay positive!" > advices.txt
             echo "Keep learning every day." >> advices.txt
@@ -33,10 +35,8 @@ jobs:
           day_num=$(( ($(date -u +%s) / 86400) % advice_count + 1 ))
           advice=$(sed -n "${day_num}p" advices.txt)
 
-          # Remove any previous advice line
+          # Update README.md
           grep -v '^> 💡' README.md > README.tmp || true
-
-          # Insert advice after your name
           awk -v advice="> 💡 Today's Advice: $advice" '
             BEGIN {added=0}
             {print}
@@ -46,11 +46,16 @@ jobs:
 
       - name: Commit and push changes
         env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Verify changes
+          git status
+          git diff
+          
+          # Configure git and commit
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Update README with today’s advice [skip ci]" || exit 0
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git commit -m "Update README with today's advice [skip ci]" || exit 0
+          git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/${{ github.repository }}
           git push
