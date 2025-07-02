@@ -17,15 +17,18 @@ jobs:
         with:
           fetch-depth: 0  # Get complete history
           ref: master     # Explicitly checkout master branch
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global pull.rebase true  # Important for clean merges
+          git config --global pull.rebase true
 
-      - name: Pull latest changes
-        run: git pull origin master
+      - name: Synchronize with remote
+        run: |
+          git fetch origin
+          git reset --hard origin/master
 
       - name: Update README
         run: |
