@@ -52,14 +52,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Configure git
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Add and commit
           git add README.md
           git commit -m "Update README with today's advice [skip ci]" || exit 0
-          
-          # Push changes
-          git pull --rebase origin master
-          git push origin HEAD:master
+
+          for i in 1 2 3 4 5
+          do
+            git pull --rebase origin master || { git rebase --abort; exit 1; }
+            git push origin HEAD:master && break
+            sleep 5
+          done
