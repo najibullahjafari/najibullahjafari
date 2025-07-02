@@ -46,16 +46,10 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub's auto-generated token
         run: |
-          # Verify changes
-          git status
-          git diff
-          
-          # Configure git and commit
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m "Update README with today's advice [skip ci]" || exit 0
-          git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/${{ github.repository }}
-          git push
+          git push origin HEAD:master  # Explicitly push to master branch
