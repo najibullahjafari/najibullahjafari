@@ -9,14 +9,14 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Explicit write permissions
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Get full history
+          token: ${{ secrets.GITHUB_TOKEN }}  # Auth token
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,6 +25,7 @@ jobs:
 
       - name: Update README with daily advice
         run: |
+          # Create/read advices.txt
           if [ ! -f advices.txt ]; then
             echo "Stay positive!" > advices.txt
             echo "Keep learning every day." >> advices.txt
@@ -32,10 +33,12 @@ jobs:
             echo "Take breaks and rest." >> advices.txt
           fi
 
+          # Get today's advice
           advice_count=$(wc -l < advices.txt)
           day_num=$(( ($(date -u +%s) / 86400) % advice_count + 1 ))
           advice=$(sed -n "${day_num}p" advices.txt)
 
+          # Update README
           grep -v '^> 💡' README.md > README.tmp || true
           awk -v advice="> 💡 Today's Advice: $advice" '
             BEGIN {added=0}
@@ -48,16 +51,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Pull latest changes first
-          git pull origin master --rebase
-          
           # Configure git
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          # Commit changes
+          # Get latest changes
+          git pull --ff-only origin master
+          
+          # Commit and push
           git add README.md
           git commit -m "Update README with today's advice [skip ci]" || exit 0
-          
-          # Push changes
-          git push origin HEAD:master --force
+          git push origin HEAD:master
