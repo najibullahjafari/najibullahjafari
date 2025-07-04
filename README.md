@@ -1,5 +1,5 @@
 # Hi there, I'm [Najibullah Jafari]()
-> 💡 Today's Advice: Your potential is limitless—believe in it.
+> 💡 Today's Advice: Comparison steals joy; focus on your own journey.
 
 ## About Me
 A Certified Full-Stack web developer with a great experience in Laravel & Livewire,Ruby on Rails, Vue Js, React Js and Python. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
