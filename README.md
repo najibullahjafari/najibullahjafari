@@ -14,7 +14,6 @@ A Certified Full-Stack web developer with a great experience in Laravel & Livewi
   </div>
 </div>
 
-
 <br>
  
 ![Najibullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)
