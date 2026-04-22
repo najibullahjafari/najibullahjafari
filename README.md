@@ -1,5 +1,5 @@
 # Hi there, I'm [Najibullah Jafari]()
-> 💡 Today's Advice: Small steps forward still count as progress.
+> 💡 Today's Advice: Celebrate your wins, no matter how small.
 
 ## About Me
 A Certified Full-Stack web developer with a great experience in Laravel & Livewire, Vue Js, React Js and Python. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
