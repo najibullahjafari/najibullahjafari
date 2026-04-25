@@ -2,7 +2,7 @@
 > 💡 Today's Advice: Comparison steals joy; focus on your own journey.
 
 ## About Me
-A Certified Full-Stack web developer with a great experience in Laravel & Livewire, Vue Js, React Js and Python. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
+A Certified Full-Stack Engineer.
 
 ## GitHub Stats
 
@@ -29,13 +29,8 @@ A Certified Full-Stack web developer with a great experience in Laravel & Livewi
 ![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
 ## 🌱 I'm Currently working on:
-- Projects using Laravel, Livewire, Django, Git & GitHub, Cpanel, Vscode, Google meet, Discord, React Js, Microsoft OneNote, 
-- Problem solving
+- Projects using Laravel, Livewire, Django, Git & GitHub, Cpanel, Vscode, Google meet, Discord, React Js...
+- Problem solving, Server configurations, Team leading, Hosting
 
-## 💬 Ask Me About
-
-- Anything related to React, Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, Laravel, VUE js, Problem-solving, Machine learning
-- Playing soccer, chess, Magic Rubik's cube
-- VS Code, PyCharm, Git & GitHub.
 
 
