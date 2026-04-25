@@ -2,7 +2,9 @@
 > 💡 Today's Advice: Comparison steals joy; focus on your own journey.
 
 ## About Me
-A Certified Full-Stack Engineer.
+A Certified Full-Stack Engineer working on:
+- Projects using Laravel, Livewire, Python, Flutter apps(Android & IOS), Figma, Git & GitHub, Cpanel & WHM, Vscode, Google meet, Discord, React Js...
+- Problem solving, Server configurations, Team leading, Hosting
 
 ## GitHub Stats
 
@@ -28,9 +30,6 @@ A Certified Full-Stack Engineer.
 
 ![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
-## 🌱 I'm Currently working on:
-- Projects using Laravel, Livewire, Django, Git & GitHub, Cpanel, Vscode, Google meet, Discord, React Js...
-- Problem solving, Server configurations, Team leading, Hosting
 
 
 
