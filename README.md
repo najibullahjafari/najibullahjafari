@@ -1,5 +1,5 @@
 # Hi there, I'm [Najibullah Jafari]()
-> 💡 Today's Advice: Comparison steals joy; focus on your own journey.
+> 💡 Today's Advice: Mistakes are proof you’re trying—learn from them.
 
 ## About Me
 A Certified Full-Stack Engineer working on:
