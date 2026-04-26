@@ -1,7 +1,4 @@
 # Hi there, I'm [Najibullah Jafari]()
-> 💡 Today's Advice: Mistakes are proof you’re trying—learn from them.
-
-## About Me
 A Certified Full-Stack Engineer working on:
 - Projects using Laravel, Livewire, Python, Flutter apps(Android & IOS), Figma, Git & GitHub, Cpanel & WHM, Vscode, Google meet, Discord, React Js...
 - Problem solving, Server configurations, Team leading, Hosting
