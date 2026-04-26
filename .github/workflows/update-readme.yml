@@ -1,59 +1,59 @@
-name: Daily Advice in README
+# name: Daily Advice in README
 
-on:
-  schedule:
-    - cron: '30 11 * * *'  # 11:30 UTC = 4:00 PM Kabul time
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '30 11 * * *'  # 11:30 UTC = 4:00 PM Kabul time
+#   workflow_dispatch:
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Essential write permission
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write  # Essential write permission
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Get complete history
-          token: ${{ secrets.GITHUB_TOKEN }}
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v4
+#         with:
+#           fetch-depth: 0  # Get complete history
+#           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global pull.rebase true
+#       - name: Configure Git
+#         run: |
+#           git config --global user.name "github-actions[bot]"
+#           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#           git config --global pull.rebase true
 
-      - name: Reset to origin/master
-        run: |
-          git fetch origin
-          git reset --hard origin/master
+#       - name: Reset to origin/master
+#         run: |
+#           git fetch origin
+#           git reset --hard origin/master
 
-      - name: Update README
-        run: |
-          # Create/update advices.txt
-          if [ ! -f advices.txt ]; then
-            echo "Stay positive!" > advices.txt
-            echo "Keep learning every day." >> advices.txt
-            echo "Be kind to others." >> advices.txt
-            echo "Take breaks and rest." >> advices.txt
-          fi
+#       - name: Update README
+#         run: |
+#           # Create/update advices.txt
+#           if [ ! -f advices.txt ]; then
+#             echo "Stay positive!" > advices.txt
+#             echo "Keep learning every day." >> advices.txt
+#             echo "Be kind to others." >> advices.txt
+#             echo "Take breaks and rest." >> advices.txt
+#           fi
 
-          advice_count=$(wc -l < advices.txt)
-          day_num=$(( ($(date -u +%s) / 86400) % advice_count + 1 ))
-          advice=$(sed -n "${day_num}p" advices.txt)
+#           advice_count=$(wc -l < advices.txt)
+#           day_num=$(( ($(date -u +%s) / 86400) % advice_count + 1 ))
+#           advice=$(sed -n "${day_num}p" advices.txt)
 
-          grep -v '^> 💡' README.md > README.tmp || true
-          awk -v advice="> 💡 Today's Advice: $advice" '
-            BEGIN {added=0}
-            {print}
-            /Najibullah Jafari/ && !added {print advice; added=1}
-          ' README.tmp > README.md
-          rm README.tmp
+#           grep -v '^> 💡' README.md > README.tmp || true
+#           awk -v advice="> 💡 Today's Advice: $advice" '
+#             BEGIN {added=0}
+#             {print}
+#             /Najibullah Jafari/ && !added {print advice; added=1}
+#           ' README.tmp > README.md
+#           rm README.tmp
 
-      - name: Commit and push
-        run: |
-          git add README.md
-          git commit -m "Update README with today's advice [skip ci]" || exit 0
-          git pull --rebase origin master  # Ensure we're up to date
-          git push origin HEAD:master --force-with-lease
+#       - name: Commit and push
+#         run: |
+#           git add README.md
+#           git commit -m "Update README with today's advice [skip ci]" || exit 0
+#           git pull --rebase origin master  # Ensure we're up to date
+#           git push origin HEAD:master --force-with-lease
