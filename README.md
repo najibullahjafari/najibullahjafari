@@ -1,7 +1,7 @@
 # Hi there, I'm [Najibullah Jafari]()
-
-## About Me
-A Certified Full-Stack web developer with a great experience in Laravel & Livewire,Ruby on Rails, Vue Js, React Js and Python. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
+A Certified Full-Stack Engineer working on:
+- Projects using Laravel, Livewire, Python, Flutter apps(Android & IOS), Figma, Git & GitHub, Cpanel & WHM, Vscode, Google meet, Discord, React Js...
+- Problem solving, Server configurations, Team leading, Hosting
 
 ## GitHub Stats
 
@@ -12,7 +12,6 @@ A Certified Full-Stack web developer with a great experience in Laravel & Livewi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibullahjafari&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10&layout=compact" alt="Most used languages" style="border: none;">
   </div>
 </div>
-
 
 <br>
  
@@ -28,14 +27,6 @@ A Certified Full-Stack web developer with a great experience in Laravel & Livewi
 
 ![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
 <br>
-## 🌱 I'm Currently working on:
-- Projects using Laravel, Livewire, Django, Git & GitHub, Cpanel, Vscode, Google meet, Discord, React Js, Microsoft OneNote, 
-- Problem solving
 
-## 💬 Ask Me About
-
-- Anything related to React, Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, Laravel, VUE js, Problem-solving, Machine learning
-- Playing soccer, chess, Magic Rubik's cube
-- VS Code, PyCharm, Git & GitHub.
 
 
